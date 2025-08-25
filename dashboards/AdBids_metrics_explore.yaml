@@ -3,7 +3,7 @@
 
 type: explore
 
-display_name: "Adbids dashboard FROM MAIN"
+display_name: "Adbids dashboard Change 4"
 metrics_view: AdBids_metrics
 
 dimensions: '*'
