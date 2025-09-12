@@ -1,0 +1,13 @@
+# Explore YAML
+# Reference documentation: https://docs.rilldata.com/reference/project-files/explore-dashboards
+
+type: explore
+
+display_name: "Adbids dashboard One"
+metrics_view: AdBids_metrics
+
+dimensions:
+  - publisher
+  - domain
+measures:
+  - bid_price_sum
